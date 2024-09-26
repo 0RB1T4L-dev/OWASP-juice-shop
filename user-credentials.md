@@ -1,7 +1,7 @@
 ## User Credentials
 **Category:** Injection
 
-**Difficulty:** 4/5
+**Difficulty:** 4/6
 
 **Challenge Description:** Retrieve a list of all user credentials via SQL Injection.
 

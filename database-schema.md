@@ -1,7 +1,7 @@
 ## Database Schema
 **Category:** Injection
 
-**Difficulty:** 3/5
+**Difficulty:** 3/6
 
 **Challenge Description:** Exfiltrate the entire DB schema definition via SQL Injection.
 

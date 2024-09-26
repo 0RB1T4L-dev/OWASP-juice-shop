@@ -1,7 +1,7 @@
 ## Deprecated Interface
 **Category:** Security Misconfiguration
 
-**Difficulty:** 2/5
+**Difficulty:** 2/6
 
 **Challenge Description:** Use a deprecated B2B interface that was not properly shut down.
 

@@ -1,7 +1,7 @@
 ## Poison Nullbytes
 **Category:** Improper Input Validation
 
-**Difficulty:** 4/5
+**Difficulty:** 4/6
 
 **Challenge Description:** Bypass a security control with a Poison Null Byte to access a file not meant for your eyes.
 

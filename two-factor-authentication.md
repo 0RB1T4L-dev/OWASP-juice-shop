@@ -1,7 +1,7 @@
 ## Two Factor Authentication
 **Category:** Broken Authentication
 
-**Difficulty:** 5/5
+**Difficulty:** 5/6
 
 **Challenge Description:** Solve the 2FA challenge for user "wurstbrot". (Disabling, bypassing or overwriting his 2FA settings does not count as a solution)
 

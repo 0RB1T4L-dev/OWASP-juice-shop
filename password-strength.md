@@ -1,7 +1,7 @@
 ## Password Strength
 **Category:** Broken Authentication
 
-**Difficulty:** 2/5
+**Difficulty:** 2/6
 
 **Challenge Description:** Log in with the administrator's user credentials without previously changing them or applying SQL Injection.
 

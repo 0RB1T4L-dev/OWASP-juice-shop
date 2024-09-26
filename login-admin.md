@@ -1,7 +1,7 @@
 ## Login Admin
 **Category:** Injection
 
-**Difficulty:** 2/5
+**Difficulty:** 2/6
 
 **Challenge Description:** Log in with the administrator's user account.
 

@@ -1,7 +1,7 @@
 ## View Basket
 **Category:** Broken Access Control
 
-**Difficulty:** 2/5
+**Difficulty:** 2/6
 
 **Challenge Description:** View another user's shopping basket.
 

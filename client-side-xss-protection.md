@@ -1,7 +1,7 @@
 ## Client-Side XSS Protection
 **Category:** XSS
 
-**Difficulty:** 3/5
+**Difficulty:** 3/6
 
 **Challenge Description:** Perform a persisted XSS attack with \<iframe src="javascript:alert('xss')"\> bypassing a client-side security mechanism.
 

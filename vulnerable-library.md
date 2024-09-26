@@ -1,7 +1,7 @@
 ## Vulnerable Library
 **Category:** Vulnerable Components
 
-**Difficulty:** 4/5
+**Difficulty:** 4/6
 
 **Challenge Description:** Inform the shop about a vulnerable library it is using. (Mention the exact library name and version in your comment)
 

@@ -1,7 +1,7 @@
 ## XXE Data Access
 **Category:** XXE
 
-**Difficulty:** 3/5
+**Difficulty:** 3/6
 
 **Challenge Description:** Retrieve the content of C:\Windows\system.ini or /etc/passwd from the server.
 
