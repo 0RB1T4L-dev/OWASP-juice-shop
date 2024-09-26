@@ -22,7 +22,7 @@ Since /ftp does not contain any user-controlled I decided to focus on /profile.
 
 ### Trying my Luck with TInjA
 
-TInjA is a tool, which checks for possible SSTI. It was my first time working with this tool, so I took me quite some research and playing around with the tool until I got a useful result.
+TInjA is a tool, which checks for possible SSTI. It was my first time working with this tool, so it took me quite some research and playing around with the tool until I got a useful result.
 
 But finallly I was able to identify the template engine being used.
 
@@ -86,7 +86,7 @@ First I changed my username to the polyglot (`a">##[[${1}]]`), which led to the 
 
 ![SSTI Pug Error](/images/ssti-pug-error.png)
 
-The last step verifying the SSTI was to change the username to something, that the template engine would actually process. As you can see, the value `#{6*6}` was processed to 36.
+The last step verifying the SSTI was to change the username to something, that the template engine would actually process. As you can see, the value `#{7*7}` was processed to 49.
 
 ![SSTI Verification](/images/ssti-verified.png)
 
